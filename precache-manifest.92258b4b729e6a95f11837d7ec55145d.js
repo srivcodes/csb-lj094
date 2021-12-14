@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b233203bba8b09dc04d1c2bead727678",
+    "revision": "7ec923fbf4020a19283ed87b8cc25ce8",
     "url": "https://srivcodes.github.io/csb-lj094/index.html"
   },
   {
-    "revision": "07622c67549b211f9537",
+    "revision": "9e126d5dc3fbf9432e08",
     "url": "https://srivcodes.github.io/csb-lj094/static/css/main.ce6e5570.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://srivcodes.github.io/csb-lj094/static/js/2.0bd27ae0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07622c67549b211f9537",
-    "url": "https://srivcodes.github.io/csb-lj094/static/js/main.22b692bb.chunk.js"
+    "revision": "9e126d5dc3fbf9432e08",
+    "url": "https://srivcodes.github.io/csb-lj094/static/js/main.d091b263.chunk.js"
   },
   {
     "revision": "942e3c466a8fee883439",
